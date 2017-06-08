@@ -1,5 +1,5 @@
 import java.util.*;
-public class Party
+public class Duplicates
 {
     public static void main(String arr[])
     {
